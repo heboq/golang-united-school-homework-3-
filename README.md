@@ -1,6 +1,6 @@
 # Homework
 
-## How to:
+## How to
 
 - Clone the repo
 - run `go mod init homework`
@@ -9,7 +9,7 @@
   - it contains correct package name
   - follow comments placeholder
 
-## Tasks:
+## Tasks
 
 Task 1: Arrays
 Implement function that returns an average value of array (sum / N)
